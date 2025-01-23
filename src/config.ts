@@ -3,9 +3,9 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://backman.fyi/",
   author: "Sat Naing",
-  profile: "https://satnaing.dev/",
+  profile: "https://githib.com/zenkan/",
   desc: "Yet another cyber security blog",
-  title: "BackmanFYI",
+  title: "backmanfyi",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 10,
@@ -13,7 +13,7 @@ export const SITE: Site = {
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   showArchives: true,
   editPost: {
-    url: "https://github.com/satnaing/astro-paper/edit/main/src/content/blog",
+    url: "https://github.com/zenkan/blog",
     text: "Suggest Changes",
     appendFilePath: true,
   },

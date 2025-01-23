@@ -24,12 +24,12 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   <Header />
   <main id="main-content">
     <section id="hero">
-<Image src={profilePicture} alt="Profile Pic" width="250" style="border-radius: 0.75rem" />
+      <Image src={profilePicture} alt="Profile Pic" width="250" style="border-radius: 0.75rem" />
       <p>
-        Security Lead @ Leya <br />
-        Former Security Engineer @ Juni <br />
-        Former Security Engineer @ Tink <br />
-        Former Pentester @ F-Secure <br />
+        Security Lead @ <a href="https://leya.law" style="text-decoration:underline;"> Leya </a> <br />
+        Former Security Engineer @ <a href="https://juni.co" style="text-decoration:underline;">Juni </a> <br />
+          Former Security Engineer @ <a href="https://tink.com" style="text-decoration:underline;">Tink </a> <br />
+            Former Pentester @ <a href="https://withsecure.com" style="text-decoration:underline;">WithSecure </a> <br />
       </p>
       {
         // only display if at least one social link is enabled

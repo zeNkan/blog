@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="112" width="552" viewBox="0 0 552 112" class="diagram" text-anchor="middle" font-family="monospace" font-size="13px" stroke-linecap="round">
+<path d="M 8,24 L 8,80" fill="none" stroke="black"/>
+<path d="M 24,40 L 24,56" fill="none" stroke="black"/>
+<path d="M 24,72 L 24,88" fill="none" stroke="black"/>
+<path d="M 72,72 L 72,104" fill="none" stroke="black"/>
+<path d="M 88,72 L 88,104" fill="none" stroke="black"/>
+<path d="M 104,64 L 104,80" fill="none" stroke="black"/>
+<path d="M 160,24 L 160,80" fill="none" stroke="black"/>
+<path d="M 176,24 L 176,48" fill="none" stroke="black"/>
+<path d="M 176,80 L 176,104" fill="none" stroke="black"/>
+<path d="M 216,24 L 216,80" fill="none" stroke="black"/>
+<path d="M 232,48 L 232,104" fill="none" stroke="black"/>
+<path d="M 256,48 L 256,104" fill="none" stroke="black"/>
+<path d="M 272,24 L 272,80" fill="none" stroke="black"/>
+<path d="M 280,64 L 280,80" fill="none" stroke="black"/>
+<path d="M 296,72 L 296,104" fill="none" stroke="black"/>
+<path d="M 312,72 L 312,104" fill="none" stroke="black"/>
+<path d="M 328,64 L 328,80" fill="none" stroke="black"/>
+<path d="M 336,24 L 336,80" fill="none" stroke="black"/>
+<path d="M 352,64 L 352,104" fill="none" stroke="black"/>
+<path d="M 368,24 L 368,64" fill="none" stroke="black"/>
+<path d="M 384,24 L 384,88" fill="none" stroke="black"/>
+<path d="M 400,24 L 400,88" fill="none" stroke="black"/>
+<path d="M 416,40 L 416,56" fill="none" stroke="black"/>
+<path d="M 416,72 L 416,104" fill="none" stroke="black"/>
+<path d="M 432,56 L 432,72" fill="none" stroke="black"/>
+<path d="M 512,40 L 512,88" fill="none" stroke="black"/>
+<path d="M 528,40 L 528,88" fill="none" stroke="black"/>
+<path d="M 544,24 L 544,40" fill="none" stroke="black"/>
+<path d="M 52,88 L 60,104" fill="none" stroke="black"/>
+<path d="M 52,56 L 60,72" fill="none" stroke="black"/>
+<path d="M 52,24 L 60,40" fill="none" stroke="black"/>
+<path d="M 84,40 L 92,56" fill="none" stroke="black"/>
+<path d="M 104,80 L 116,104" fill="none" stroke="black"/>
+<path d="M 92,24 L 104,48" fill="none" stroke="black"/>
+<path d="M 120,80 L 124,88" fill="none" stroke="black"/>
+<path d="M 148,72 L 164,104" fill="none" stroke="black"/>
+<path d="M 140,40 L 148,56" fill="none" stroke="black"/>
+<path d="M 148,24 L 160,48" fill="none" stroke="black"/>
+<path d="M 184,80 L 196,104" fill="none" stroke="black"/>
+<path d="M 196,56 L 220,104" fill="none" stroke="black"/>
+<path d="M 232,48 L 244,72" fill="none" stroke="black"/>
+<path d="M 236,24 L 244,40" fill="none" stroke="black"/>
+<path d="M 272,80 L 284,104" fill="none" stroke="black"/>
+<path d="M 308,40 L 316,56" fill="none" stroke="black"/>
+<path d="M 328,80 L 340,104" fill="none" stroke="black"/>
+<path d="M 316,24 L 336,64" fill="none" stroke="black"/>
+<path d="M 352,64 L 372,104" fill="none" stroke="black"/>
+<path d="M 348,24 L 368,64" fill="none" stroke="black"/>
+<path d="M 444,24 L 464,64" fill="none" stroke="black"/>
+<path d="M 460,24 L 472,48" fill="none" stroke="black"/>
+<path d="M 36,56 L 44,40" fill="none" stroke="black"/>
+<path d="M 36,88 L 44,72" fill="none" stroke="black"/>
+<path d="M 52,56 L 68,24" fill="none" stroke="black"/>
+<path d="M 44,104 L 60,72" fill="none" stroke="black"/>
+<path d="M 68,56 L 76,40" fill="none" stroke="black"/>
+<path d="M 100,40 L 108,24" fill="none" stroke="black"/>
+<path d="M 120,48 L 124,40" fill="none" stroke="black"/>
+<path d="M 100,104 L 108,88" fill="none" stroke="black"/>
+<path d="M 148,56 L 164,24" fill="none" stroke="black"/>
+<path d="M 140,88 L 148,72" fill="none" stroke="black"/>
+<path d="M 148,104 L 160,80" fill="none" stroke="black"/>
+<path d="M 184,48 L 196,24" fill="none" stroke="black"/>
+<path d="M 196,56 L 212,24" fill="none" stroke="black"/>
+<path d="M 204,104 L 216,80" fill="none" stroke="black"/>
+<path d="M 244,40 L 252,24" fill="none" stroke="black"/>
+<path d="M 244,72 L 256,48" fill="none" stroke="black"/>
+<path d="M 272,64 L 292,24" fill="none" stroke="black"/>
+<path d="M 268,104 L 280,80" fill="none" stroke="black"/>
+<path d="M 292,56 L 300,40" fill="none" stroke="black"/>
+<path d="M 324,104 L 336,80" fill="none" stroke="black"/>
+<path d="M 472,48 L 484,24" fill="none" stroke="black"/>
+<path d="M 480,64 L 500,24" fill="none" stroke="black"/>
+<path d="M 4,24 L 52,24" fill="none" stroke="black"/>
+<path d="M 68,24 L 92,24" fill="none" stroke="black"/>
+<path d="M 108,24 L 148,24" fill="none" stroke="black"/>
+<path d="M 196,24 L 236,24" fill="none" stroke="black"/>
+<path d="M 252,24 L 276,24" fill="none" stroke="black"/>
+<path d="M 292,24 L 316,24" fill="none" stroke="black"/>
+<path d="M 396,24 L 460,24" fill="none" stroke="black"/>
+<path d="M 484,24 L 544,24" fill="none" stroke="black"/>
+<path d="M 20,40 L 44,40" fill="none" stroke="black"/>
+<path d="M 124,40 L 140,40" fill="none" stroke="black"/>
+<path d="M 416,40 L 452,40" fill="none" stroke="black"/>
+<path d="M 20,72 L 44,72" fill="none" stroke="black"/>
+<path d="M 124,88 L 140,88" fill="none" stroke="black"/>
+<path d="M 12,104 L 44,104" fill="none" stroke="black"/>
+<path d="M 116,104 L 148,104" fill="none" stroke="black"/>
+<path d="M 508,104 L 532,104" fill="none" stroke="black"/>
+<polygon class="arrowhead" points="480,48 468,42.4 468,53.6" fill="black" transform="rotate(116.56505117707799,472,48)"/>
+<g class="text">
+<text x="168" y="20">_</text>
+<text x="344" y="20">_</text>
+<text x="376" y="20">_</text>
+<text x="80" y="36">_</text>
+<text x="304" y="36">_</text>
+<text x="504" y="36">_</text>
+<text x="536" y="36">_</text>
+<text x="32" y="52">_</text>
+<text x="80" y="52">_</text>
+<text x="304" y="52">_</text>
+<text x="424" y="52">_</text>
+<text x="80" y="68">_</text>
+<text x="120" y="68">|</text>
+<text x="304" y="68">_</text>
+<text x="424" y="68">_</text>
+<text x="32" y="84">_</text>
+<text x="392" y="84">_</text>
+<text x="472" y="84">| |</text>
+<text x="504" y="84">_</text>
+<text x="536" y="84">_</text>
+<text x="8" y="100">\</text>
+<text x="64" y="100">_</text>
+<text x="96" y="100">_</text>
+<text x="168" y="100">_</text>
+<text x="200" y="100">_</text>
+<text x="224" y="100">_</text>
+<text x="264" y="100">_</text>
+<text x="288" y="100">_</text>
+<text x="320" y="100">_</text>
+<text x="344" y="100">_</text>
+<text x="392" y="100">_(_)_</text>
+<text x="472" y="100">\_/</text>
+<text x="504" y="100">\</text>
+<text x="536" y="100">/</text>
+</g>
+</svg>

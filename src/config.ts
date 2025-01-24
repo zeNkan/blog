@@ -2,11 +2,10 @@ import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
   website: "https://backman.fyi/",
-  author: "Sat Naing",
+  author: "Lars Backman",
   profile: "https://githib.com/zenkan/",
   desc: "Yet another cyber security blog",
   title: "backmanfyi",
-  ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 10,
   postPerPage: 3,
